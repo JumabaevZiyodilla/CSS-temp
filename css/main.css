@@ -27,9 +27,7 @@ body{
   margin: 0;
   padding: 0;
   /* font-family: "Roboto", "Arial", sans-serif; */
-  /* font-size: 16px; */
-  /* font-weight: 400; */
-  /* line-height: var(--main-line-height); */
+  font-weight: 400;
 }
 
 .visually-hidden {
@@ -45,9 +43,13 @@ body{
   overflow: hidden;
 }
 
+/* MAIN CLASS */
+
+
+
 /* CONTAINER */
 .container{
-  /* max-width: your-size-here; */
+  max-width: 1240px;
   margin-right: auto;
   margin-left: auto;
   padding-right: 20px;
@@ -59,18 +61,22 @@ body{
   flex-grow: 1;
 }
 
-/* Site header start */
+/* SITE HEADER START */
 
-/* Site header end */
+/* SITE HEADER END */
 
-/* Site main start */
+/* SITE MAIN START */
 
-/* Section start */
+/* SECTION  START */
 
-/* Section end */
+/* SECTION  END */
 
-/* Site main end */
+/* SECTION  START */
 
-/* Site footer start */
+/* SECTION  END */
 
-/* Site footer end */
+/* SITE MAIN END */
+
+/* SITE FOOTER START */
+
+/* SITE FOOTER END */
